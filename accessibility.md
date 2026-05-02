@@ -10,7 +10,7 @@ Streaming can be made more welcoming with a few practical choices.
 
 ## Captions
 
-- Use automatic captions where available.
+- Use automatic captions where available. More information is available on [Twitch's closed captioning guide](https://help.twitch.tv/s/article/guide-to-closed-captions).
 - Consider recording the stream and adding improved captions later.
 - Speak clearly and avoid talking over collaborators.
 
@@ -23,6 +23,7 @@ Streaming can be made more welcoming with a few practical choices.
 
 ## Chat and interaction
 
+- Where possible, stream with multiple video quality options for people with low bandwidth.
 - Read out or summarise audience questions before answering.
 - Give people multiple ways to participate, for example chat, Q&A documents or follow-up issues.
 - Make expectations for behaviour clear.
