@@ -47,6 +47,12 @@ Practical mitigations:
 - Documentation on getting started with Twitch  
 - If you do anything physical (e.g. electronics) \- demos, live tinkering
 
+### Example coding stream:
+
+<iframe width="560" height="315"
+  src="https://www.youtube.com/embed/0EZjxD19JWU"
+  frameborder="0" allowfullscreen></iframe>
+
 ### Example coding stream which uses an avatar:
 
 <iframe width="560" height="315"
@@ -60,6 +66,12 @@ Practical mitigations:
   frameborder="0" allowfullscreen></iframe>
 
 ### Example interview:
+
+<iframe width="560" height="315"
+  src="https://www.youtube.com/embed/BAqTlGnHqYE"
+  frameborder="0" allowfullscreen></iframe>
+
+### Example interview using avatars:
 
 <iframe width="560" height="315"
   src="https://www.youtube.com/embed/FMxDeUyZkNs"
